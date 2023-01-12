@@ -1,8 +1,7 @@
 # weather_app_with_provider
 
-A new Flutter project.
+![alt text](https://github.com/gommido/weather_app_with_provider/blob/master/ezgif.com-gif-maker.gif "Logo Title Text 1")
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
